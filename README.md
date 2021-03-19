@@ -21,3 +21,7 @@ run EPC
 sudo srsepc ~/.config/srslte/epc.conf
 ```
 
+eNodeB config:
+```bash
+vim ~/.config/srslte/enb.conf
+```
